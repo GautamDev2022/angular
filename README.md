@@ -1,4 +1,4 @@
-# angular > Phone book AngularJS app
+# angular > Phonebook AngularJS app
 
 This is a phone book application build using Angular JS.
 
