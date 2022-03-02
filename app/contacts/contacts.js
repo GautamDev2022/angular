@@ -27,7 +27,7 @@ angular.module('myApp.contacts', ['ngRoute'])
                     });
             };
 
-            // Redirect to contact from for editing contact on click of edit icon in list.
+            // Redirect to contact form for editing contact on click of edit icon in list.
             $scope.editContact = function (id) {
                 $location.path('/edit/' + id);
             };
